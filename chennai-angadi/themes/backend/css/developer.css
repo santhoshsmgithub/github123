@@ -1,0 +1,68 @@
+.DTTT_button_collection { display:none;}
+.edit-userform .row-fluid { margin-bottom:15px;}
+
+#directions {
+float:left;
+width:357px;
+min-height:600px;
+background:#FFF:
+padding-left:25px;
+}
+#map {
+width:599px;
+height: 600px;
+float:left;
+}
+.login-container {
+width:400px;
+margin:0px auto;
+padding:20px!important;
+background:#fff;
+border-radius:8px;
+box-sizing:border-box;
+text-align:center;
+-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.38);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.38);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.38);
+}
+.login-container img{width:65%; margin:20px 0 ;}
+.login-container input{width:100%; margin-bottom:15px; height:40px}
+.login-container input[type="text"],.login-container input[type="password"]{width:93%;}
+
+.grid.simple .grid-body.no-border {
+    border: 0 none;
+    padding-top: 20px;
+}
+.login-container  .grid-body {
+
+}
+.custom-login-port { float:left; width:100%; padding:0px 10px;}
+.custom-login-port a { float:left; width:100%;}
+.custom-login-port a img{ width:81%; height:80px; padding-bottom:10px;}
+.custom-login-port{
+	margin-left:20px;
+}
+.text-inputs {min-height:30px;}
+.roles-table { margin-top:10px;margin-left:10px;}
+.login-text {float:left;color:#444; font-weight:bold;padding:10px 0px;font-size:12px;margin-left:10px;font-family: 'Lato'; }
+.additional-info{
+background: #e0e0e0;
+padding: 5px 20px 6px;
+width: 530px;
+float: left;
+width: 837px;
+}
+.roles-table h4,.company-table h4,.notification h4 { width:94%;}
+
+.roles-table h4  a ,.company-table h4 a,.notification h4 a{ float:right;}
+.designer { text-align:center;height:20px;background:#FFF;font-size:14px;padding:10px;}
+
+.user-add { float:left;width:97%;}
+
+.notification { min-height:600px;}
+
+.aeeditor{
+	float: left !important;
+    height: 300px !important;
+    width: 700px !important;
+}
